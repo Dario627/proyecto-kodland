@@ -22,7 +22,7 @@ a{
 }
 
 .imagen1{
-    background-image: url("img/quienes-somos.jpg");
+    background-image: url("quienes-somos.jpg");
     width:700px;
     height:200px;
     background-size: 100% 100%;
@@ -41,7 +41,7 @@ a{
 }
 
 .imagen2{
-    background-image: url("img/listado-tours.jpg");
+    background-image: url("listado-tours.jpg");
     width:700px;
     height:200px;
     background-size: 100% 100%;
@@ -56,7 +56,7 @@ a{
 }
 
 .imagen3{
-    background-image: url("img/contacto.jpg");
+    background-image: url("contacto.jpg");
     width:700px;
     height:200px;
     background-size: 100% 100%;
