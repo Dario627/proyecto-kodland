@@ -1,0 +1,83 @@
+a{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    background-color: #f60;
+    height: 30px;
+    width: 110px;
+    text-align: center;
+    padding-top: 12px;
+    border-radius: 25px;
+    font-weight: bold;
+}
+
+.container{
+    display: flex;
+    background-color: yellow;
+    height: 50px;
+    width: 150px;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 25px;
+}
+
+.imagen1{
+    background-image: url("img/quienes-somos.jpg");
+    width:700px;
+    height:200px;
+    background-size: 100% 100%;
+    position: relative;
+    display: inline-block;
+}
+
+.center{
+    margin:auto;
+}
+
+.boton1{
+    position: absolute;
+    top:130px;
+    left: 310px;
+}
+
+.imagen2{
+    background-image: url("img/listado-tours.jpg");
+    width:700px;
+    height:200px;
+    background-size: 100% 100%;
+    position: relative;
+    display: inline-block;
+}
+
+.boton2{
+    position: absolute;
+    top:130px;
+    left: 310px;
+}
+
+.imagen3{
+    background-image: url("img/contacto.jpg");
+    width:700px;
+    height:200px;
+    background-size: 100% 100%;
+    position: relative;
+    display: inline-block;
+}
+
+.boton3{
+    position: absolute;
+    top:130px;
+    left: 310px;
+}
+
+a:hover{
+    height: 40px;
+    width: 140px;
+    text-align: center;
+    padding-top: 17px;
+    border-radius: 35px;
+    position: absolute;
+    top:120px;
+    left: 300px;
+    font-size: 22px;
+}
